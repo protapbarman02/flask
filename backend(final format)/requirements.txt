@@ -1,0 +1,8 @@
+flask
+flask-smorest
+flask-sqlalchemy
+marshmallow
+python-dotenv
+flask_swagger_ui
+mysql-connector-python
+Flask-Migrate

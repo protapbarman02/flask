@@ -1,0 +1,4 @@
+create schlalchmy instance
+create a model, inherit db.Model
+bind the instance with app instance on step 4
+to create schema we use marshmello

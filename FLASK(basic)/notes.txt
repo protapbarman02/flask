@@ -1,0 +1,8 @@
+schema
+blueprint
+
+double decorator
+dunder __name__
+
+def post(self,new_car):
+        car=CarModel(**new_car)
